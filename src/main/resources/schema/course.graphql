@@ -6,5 +6,6 @@ type Hello{
 type Query{
     allHellos:[Hello]
     oneHello: Hello
+    book:Book
 }
 
